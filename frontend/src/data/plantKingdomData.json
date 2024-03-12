@@ -1,0 +1,161 @@
+[{
+        "imgSrc": "/images/plant1.jpg",
+        "title": "Areca Palm",
+        "price": "$19.99",
+        "soil": "Acidic",
+        "light": "Low Light",
+        "water": "Don’t let water sit in it or else roots can rot easily."
+    },
+    {
+        "imgSrc": "/images/plant2.jpg",
+        "title": "Snake Plant",
+        "price": "$19.99",
+        "soil": "Any",
+        "light": "Both (Low and Bright)",
+        "water": "Don't water daily in summers. Once in 2 months in winters."
+    },
+    {
+        "imgSrc": "/images/plant3.jpg",
+        "title": "Aloe Vera",
+        "price": "$19.99",
+        "soil": "Cacti and Succulent mixed soil",
+        "light": "Bright Light",
+        "water": "Water in every 3 days in summers and in more intervals in winter."
+    },
+    {
+        "imgSrc": "/images/plant4.jpg",
+        "title": "Ferns",
+        "price": "$19.99",
+        "soil": "Soil that has high organic content",
+        "light": "Low Light",
+        "water": "Water moderately. Not too much. Not too less."
+    },
+    {
+        "imgSrc": "/images/plant5.jpg",
+        "title": "Monstera",
+        "price": "$19.99",
+        "soil": "Any",
+        "light": "Low Light",
+        "water": "Soil that drains water well."
+    },
+    {
+        "imgSrc": "/images/plant6.jpg",
+        "title": "Money plant",
+        "price": "$19.99",
+        "soil": "Soil that drains water well",
+        "light": "Low Light",
+        "water": "Water only once a week."
+    },
+    {
+        "imgSrc": "/images/plant7.jpg",
+        "title": "Anthurium",
+        "price": "$19.99",
+        "soil": "Soil that has high organic content",
+        "light": "Low Light",
+        "water": "Every 2 days in dry weather"
+    },
+    {
+        "imgSrc": "/images/plant8.jpg",
+        "title": "Peace Lily",
+        "price": "$19.99",
+        "soil": "Moist soil",
+        "light": "Keep in shade",
+        "water": "Once a week when dry."
+    },
+    {
+        "imgSrc": "/images/plant9.jpg",
+        "title": "Rose",
+        "price": "$19.99",
+        "soil": "Acidic",
+        "light": "Bright Light",
+        "water": "Daily in warm weather."
+    },
+    {
+        "imgSrc": "/images/plant10.jpg",
+        "title": "Bougainvillea",
+        "price": "$19.99",
+        "soil": "Slightly Acidic",
+        "light": "SunLight atleast 6 hours a day",
+        "water": "Daily."
+    },
+    {
+        "imgSrc": "/images/plant11.jpg",
+        "title": "Hibiscus",
+        "price": "$19.99",
+        "soil": "Moist and well-drained",
+        "light": "Full Sun atleast 6 hours a day",
+        "water": "Daily with warm water."
+    },
+    {
+        "imgSrc": "/images/plant12.jpg",
+        "title": "Ixora",
+        "price": "$19.99",
+        "soil": "Acidic and well drained",
+        "light": "Bright Light",
+        "water": "Every 6 to 8 days."
+    },
+    {
+        "imgSrc": "/images/plant13.jpg",
+        "title": "Lantana",
+        "price": "$19.99",
+        "soil": "Slightly acidic and well drained",
+        "light": "Atleast 6 hours a day",
+        "water": "Regular watering."
+    },
+    {
+        "imgSrc": "/images/plant14.jpg",
+        "title": "Desert Rose",
+        "price": "$19.99",
+        "soil": "Naturally Dry, Desert like",
+        "light": "Bright Light",
+        "water": "Only when soil feels dry."
+    },
+    {
+        "imgSrc": "/images/plant15.jpg",
+        "title": "Milii",
+        "price": "$19.99",
+        "soil": "Fast draining",
+        "light": "Bright Light",
+        "water": "Once every one or two weeks."
+    },
+    {
+        "imgSrc": "/images/plant16.jpg",
+        "title": "Kalanchoe",
+        "price": "$19.99",
+        "soil": "Well-drained",
+        "light": "Bright Light And Fullsun",
+        "water": "Every 2-3 weeks, keep a check."
+    },
+    {
+        "imgSrc": "/images/plant17.jpg",
+        "title": "Aboli",
+        "price": "$19.99",
+        "soil": "Well drained sandy loam",
+        "light": "Direct Sunlight",
+        "water": "Only after Soil dries completely."
+    },
+    {
+        "imgSrc": "/images/plant18.jpg",
+        "title": "Begum Bahar",
+        "price": "$19.99",
+        "soil": "Well draining rich nutritious",
+        "light": "6 hours direct sunlight daily",
+        "water": "When Soil's about to dry."
+    },
+    {
+        "imgSrc": "/images/plant19.jpg",
+        "title": "Jasmine",
+        "price": "$19.99",
+        "soil": "Well-drained, rich loamy",
+        "light": "Fullsun atleast 6 hours",
+        "water": "Flooding once a week."
+    },
+    {
+        "imgSrc": "/images/plant20.jpg",
+        "title": "Dragon Flower",
+        "price": "$19.99",
+        "soil": "Neutral pH and well-drained",
+        "light": "Partial-Bright Sun",
+        "water": "Regular Watering."
+    }
+]

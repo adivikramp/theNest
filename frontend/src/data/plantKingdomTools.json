@@ -1,0 +1,56 @@
+[{
+        "imgSrc": "/images/tool1.jpg",
+        "title": "Rakes",
+        "price": "$19.99"
+    },
+    {
+        "imgSrc": "/images/tool2.jpg",
+        "title": "Garden Gloves",
+        "price": "$19.99"
+    },
+    {
+        "imgSrc": "/images/tool3.jpg",
+        "title": "Sprinkler",
+        "price": "$19.99"
+    },
+    {
+        "imgSrc": "/images/tool4.jpg",
+        "title": "Hand Trowel",
+        "price": "$19.99"
+    },
+    {
+        "imgSrc": "/images/tool5.jpg",
+        "title": "Hose",
+        "price": "$19.99"
+    },
+    {
+        "imgSrc": "/images/tool6.jpg",
+        "title": "Garden Hoe",
+        "price": "$19.99"
+    },
+    {
+        "imgSrc": "/images/tool7.jpg",
+        "title": "Garden Spade",
+        "price": "$19.99"
+    },
+    {
+        "imgSrc": "/images/tool8.jpg",
+        "title": "Wheelbarrow",
+        "price": "$19.99"
+    },
+    {
+        "imgSrc": "/images/tool9.jpg",
+        "title": "Lawn Mower",
+        "price": "$19.99"
+    },
+    {
+        "imgSrc": "/images/tool10.jpg",
+        "title": "Seed Planter",
+        "price": "$19.99"
+    },
+    {
+        "imgSrc": "/images/tool11.jpg",
+        "title": "Garden Boots",
+        "price": "$19.99"
+    }
+]
